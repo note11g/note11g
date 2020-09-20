@@ -10,6 +10,7 @@
 - **Go Lang**
 - React JS
 - **Tensorflow**
+- **Flutter**
 
 ## 개발 현황
 - 빠른 자가진단 - 바쁜 등굣길, 3초만에 자가진단을 해결하세요! (1.4, launched 1.2)
