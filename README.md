@@ -12,7 +12,7 @@
 
 ## 공부중인 언어 및 기술
 - Kotlin
-- Go Lang
+- Go
 - Dart/Flutter
 
 ## 개발 현황
