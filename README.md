@@ -11,6 +11,7 @@
  - Python/Tensorflow
 
 ## 공부중인 언어 및 기술
+- Kotlin
 - Go Lang
 - Dart/Flutter
 
