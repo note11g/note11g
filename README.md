@@ -5,19 +5,18 @@
 - EDCAN 7기
 
 ## 사용언어/기술
- - **JAVA**/Android Studio/JSP
+ - **JAVA**/Android Studio
+ - Kotlin
  - C
- - JS/React
- - Python/Tensorflow
+ - JS/React/Vue
+ - Python/Tensorflow/OpenCV
 
 ## 공부중인 언어 및 기술
-- Kotlin
 - Go
-- Dart/Flutter
 
 ## 개발 현황
 - Project Plain - under development (Android)
-- EDCAN 2021 WebSite - under development (JS/React/Node.js) with 배동인
+- EDCAN 2021 WebSite & I-CAN EDU / LIVE - under development (Vue.js/Node.js/WebRTC) with 배동인(IWOP)
 
 ## 연락처
 - note11@kakao.com
