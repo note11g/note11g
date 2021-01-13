@@ -13,6 +13,7 @@
 
 ## 공부중인 언어 및 기술
 - Go
+- GraphQL/apollo
 
 ## 개발 현황
 - Project Plain - under development (Android)
