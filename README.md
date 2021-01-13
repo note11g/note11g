@@ -17,7 +17,7 @@
 
 ## 개발 현황
 - Project Plain - under development (Android)
-- EDCAN 2021 WebSite & I-CAN EDU / LIVE - under development (Vue.js/Node.js/WebRTC) with 배동인(IWOP)
+- EDCAN 2021 WebSite & EDWOP EDU / LIVE - under development (Vue.js/Node.js/WebRTC) with 배동인(IWOP)
 
 ## 연락처
 - note11@kakao.com
