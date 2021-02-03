@@ -1,6 +1,6 @@
 # Creative your life.
 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UC_LWJDrDNqbgBiR7EEy-ulQ) EDCAN YOUTUBE
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC_LWJDrDNqbgBiR7EEy-ulQ)](https://www.youtube.com/channel/UC_LWJDrDNqbgBiR7EEy-ulQ) EDCAN Youtube
 
 ## 소개
 - 선린인터넷고등학교 소프트웨어과 재학중
