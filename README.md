@@ -1,8 +1,8 @@
-# Creativity is always the key.
+# Creative your life.
 
 ## 소개
 - 선린인터넷고등학교 소프트웨어과 재학중
-- EDCAN 7기
+- EDCAN 7기 
 
 ## 주력 분야
 - 앱 개발(Android/Cross Platform)
