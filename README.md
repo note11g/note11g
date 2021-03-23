@@ -13,7 +13,6 @@
  - JAVA, Kotlin
  - Android, Jetpack Compose, AAC(Android Architecture Component), Retrofit...
  - Flutter, getX
- - C, C++
  - JS, React, Vue, Redux, React Native
  - Node.js, express
 
