@@ -7,21 +7,20 @@
 - EDCAN 7기 부장
 
 ## 주력 분야
-- 앱 개발(Android Native/Cross Platform)
+- 어플리케이션 개발(Android Native/Cross Platform)
 
 ## 사용언어/기술
- - JAVA, Kotlin
- - Android, Jetpack Compose, AAC(Android Architecture Component), Retrofit...
- - Flutter, getX
- - JS, React, Vue, Redux, React Native
+ - Kotlin, Java
+ - Android, Android Jetpack, AAC(Android Architecture Component), Retrofit 등
+ - Dart, Flutter, GetX
+ - JS, React, Vue, VueX
  - Node.js, express
 
 ## 공부중인 언어 및 기술
-- Go
-- GraphQL, apollo
-- Tensorflow, OpenCV
-- VueX
 - Coroutine, Hilt, Dagger
+- Go
+- GraphQL, Apollo
+- Tensorflow, OpenCV
 
 ## 연락처
 - note11@kakao.com
