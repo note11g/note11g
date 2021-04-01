@@ -14,11 +14,11 @@
  - Android, Android Jetpack, AAC(Android Architecture Component), Retrofit 등
  - Dart, Flutter, GetX
  - JS, React, Vue, VueX
- - Node.js, express
 
 ## 공부중인 언어 및 기술
 - Coroutine, Hilt, Dagger
 - Go
+- Node.js, express
 - GraphQL, Apollo
 - Tensorflow, OpenCV
 
