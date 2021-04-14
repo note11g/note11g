@@ -22,5 +22,8 @@
 - GraphQL, Apollo
 - Tensorflow, OpenCV
 
+## 개발 중
+- EDCAN EDU (EDUCAN, edu.edcan.kr, Vue3)
+
 ## 연락처
 - note11@kakao.com
