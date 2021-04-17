@@ -23,7 +23,7 @@
 - Tensorflow, OpenCV
 
 ## 개발 중
-- EDCAN 동아리 온라인 수강 사이트 (EDUCAN, [edu.edcan.kr](https://edu.edcan.kr){:target="_blank"} , Vue3)
+- EDCAN 동아리 온라인 수강 사이트 (EDUCAN, [edu.edcan.kr](https://edu.edcan.kr), Vue3)
 
 ## 연락처
 - note11@kakao.com
