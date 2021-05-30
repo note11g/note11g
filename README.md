@@ -8,14 +8,14 @@
 - 어플리케이션 개발
 
 ## 사용 언어 및 기술
- - Kotlin, Java
- - Android, Android Jetpack, AAC, Retrofit 등
- - Dart, Flutter, GetX
- - JS, Vue, VueX, React
+ - Kotlin, Java, Dart, Javascript
+ - Android, Jetpack, AAC, Retrofit 등
+ - Flutter, GetX
+ - Vue, React, VueX
 
 ## 공부 중인 언어 및 기술
 - Coroutine, Hilt, Dagger
-- Swift, SwiftUI
+- ~~Swift, SwiftUI~~
 - Node.js, ~~Go~~
 - GraphQL, Apollo
 
