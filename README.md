@@ -9,14 +9,14 @@
 
 ## 사용 언어 및 기술
  - Kotlin, Java, Dart, Javascript
- - Android, Jetpack, AAC, Retrofit 등
+ - Android, Jetpack, Retrofit, LiveData 등
  - Flutter, GetX
  - Vue, React, VueX
 
 ## 공부 중인 언어 및 기술
-- Coroutine, Hilt, Dagger
-- ~~Swift, SwiftUI~~
-- Node.js, ~~Go~~
+- Coroutine, Flow, Hilt, Dagger
+- Node.js
+- Spring
 - GraphQL, Apollo
 
 ## 연락처
