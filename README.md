@@ -1,4 +1,7 @@
-# Create your life with code
+# 무언가를 만든다는 기쁨과 함께
+https://note11.dev/
+
+![메인 이미지](./main.webp)
 
 ## 소개
 - 선린인터넷고등학교 소프트웨어과 재학중
@@ -8,15 +11,13 @@
 - 어플리케이션 개발
 
 ## 사용 언어 및 기술
- - Kotlin, Java, Dart, Javascript
- - Android, Jetpack, Retrofit, LiveData, Coroutine 등
+ - Kotlin, Dart, Java, Javascript, C
+ - Android, Retrofit, Flow, LiveData, Coroutine, Jetpack Compose 등
  - Flutter, GetX
- - Vue, React, VueX
+ - Vue3, React, VueX
 
 ## 공부 중인 언어 및 기술
-- Flow, Hilt, Dagger
-- Bloc
-- Spring
+- Hilt
 - GraphQL, Apollo
 
 ## 연락처
