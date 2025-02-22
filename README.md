@@ -1,4 +1,4 @@
-## Take joy in creating impactful products for Users.
+## Create impactful products for Users.
 
 [note11.dev](https://note11.dev)
 
@@ -18,3 +18,7 @@
   [![pub package](https://img.shields.io/pub/v/view_model_kit.svg?color=4285F4)](https://pub.dev/packages/view_model_kit)
   A simple and easy state management Library with ViewModel.
 
+- **[balloon_widget](https://github.com/note11g/balloon_widget) Flutter Library**
+
+  [![pub package](https://img.shields.io/pub/v/balloon_widget.svg?color=4285F4)](https://pub.dev/packages/balloon_widget)
+  a simple balloon widget. that can be standalone widget or description widget like tooltip. without using overlay API.
